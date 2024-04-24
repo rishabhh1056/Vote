@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703931140440",
+    "project_id": "votemachine-5ac97",
+    "storage_bucket": "votemachine-5ac97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703931140440:android:a29f43a6813739bf60fd2d",
+        "android_client_info": {
+          "package_name": "com.example.newgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmDSCe9xuU2TR2QUuX64gt4sAEc5JKCek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
